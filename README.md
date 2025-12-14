@@ -63,7 +63,6 @@ consistency.
 ## Repository Structure
 
 register-map-to-json-yaml-codegen/
-│
 ├── register_map_codegen.py
 ├── README.md
 ├── .gitignore
@@ -75,7 +74,7 @@ register-map-to-json-yaml-codegen/
 │   └── sample_output.yaml     # generated from dummy input
 │
 └── tests/
-    └── test_parser.py
+    └── test_parser.pyy
 
     ## Examples
 The `examples/` directory contains a dummy register definition header along

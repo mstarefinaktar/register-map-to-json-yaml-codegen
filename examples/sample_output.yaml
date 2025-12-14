@@ -1,0 +1,3 @@
+- {access: RW, address: '0x00', length: 1, name: CTRL}
+- {access: RO, address: '0x01', length: 1, name: STATUS}
+- {access: RW, address: '0x02', length: 2, name: CFG}

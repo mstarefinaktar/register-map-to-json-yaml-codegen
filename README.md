@@ -62,6 +62,7 @@ consistency.
 
 ## Repository Structure
 
+```
 register-map-to-json-yaml-codegen/
 ├── register_map_codegen.py
 ├── README.md
@@ -75,6 +76,8 @@ register-map-to-json-yaml-codegen/
 │
 └── tests/
 └── test_parser.py
+
+```
 
 
 
